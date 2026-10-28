@@ -27,6 +27,8 @@ h6 {
   justify-content: space-evenly;
   align-items: center;
   color: rgb(253, 250, 245);
+  font-family: "Merriweather", serif;
+  font-weight: <300>;
 }
 
 .card-front {
@@ -47,6 +49,7 @@ h6 {
   justify-content: center;
   align-items: center;
   color: rgb(253, 250, 245);
+  font-family: "Xmind", sans-serif;
 }
 
 div.in-flex {
